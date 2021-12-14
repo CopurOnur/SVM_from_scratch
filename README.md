@@ -9,7 +9,7 @@ Each sample is a 28x28 gray scale image, associated with a label. The project co
 ### Repository structure
 
 ```
-```
+
 **SVM_from_scratch**
 │   README.md
 │   file001.txt
@@ -28,7 +28,6 @@ Each sample is a 28x28 gray scale image, associated with a label. The project co
 │   │   MVP.py
 │   │   run_3.py
 
-```
 ```
 
 ### Q1
