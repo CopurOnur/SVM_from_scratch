@@ -1,7 +1,7 @@
 # SVM_from_scratch
 
 ![Untitled](SVM_from_scratch%20c7258e6a31c84f9a883814224f083139/Untitled.png)
-
+## Contributors : levtelyatnikov, CopurOnur
 In this project, we have implemented a support vector classier to solve a binary class classication
 task. The task is distinguishing between images of handwritten digits from the MNIST database.
 Each sample is a 28x28 gray scale image, associated with a label. The project contains 3 different implementations grouped as Q1, Q2 and Q2 as show in the repository structure
